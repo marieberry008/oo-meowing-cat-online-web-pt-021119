@@ -6,10 +6,10 @@ maru.name
 maru.meow
 
 # maru = Cat.new 
-maru.name = "Maru"
+# maru.name = "Maru"
 
-puts maru.name
+# puts maru.name
 
-maru.meow = "meow!"
+# maru.meow = "meow!"
 
-puts maru.meow
+# puts maru.meow
