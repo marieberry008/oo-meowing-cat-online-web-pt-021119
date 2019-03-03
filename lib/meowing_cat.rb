@@ -5,7 +5,7 @@ maru.name = "Maru"
 
 puts maru.name
 
-maru = Cat.new 
+maru = Cat.meow 
 maru.meow = "meow!"
 
 puts maru.meow
