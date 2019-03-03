@@ -3,5 +3,7 @@ class Cat
 end
   
 maru = Cat.new 
-maru.meow = "mew!"
+maru.name = "Maru"
 
+def maru.meow(maru)
+  puts "meow!"
